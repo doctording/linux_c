@@ -1,0 +1,25 @@
+cp a file,it's size is 8.1M
+when buffersize = 4 bytes,the cost is 
+8.660375 seconds
+when buffersize = 8 bytes,the cost is 
+4.084151 seconds
+when buffersize = 16 bytes,the cost is 
+1.994649 seconds
+when buffersize = 32 bytes,the cost is 
+0.935452 seconds
+when buffersize = 64 bytes,the cost is 
+0.559593 seconds
+when buffersize = 128 bytes,the cost is 
+0.301933 seconds
+when buffersize = 256 bytes,the cost is 
+0.152788 seconds
+when buffersize = 512 bytes,the cost is 
+0.080090 seconds
+when buffersize = 1024 bytes,the cost is 
+0.040623 seconds
+when buffersize = 2048 bytes,the cost is 
+0.026181 seconds
+when buffersize = 4096 bytes,the cost is 
+0.017139 seconds
+when buffersize = 8192 bytes,the cost is 
+0.137418 seconds
