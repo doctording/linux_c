@@ -4,7 +4,7 @@
 
 void* thread1( void *arg )  
 {  
-    printf( "thread 1 running\n");  
+    printf( "thread 1 exiting\n");  
     return ((void *)1);  
 }  
 
